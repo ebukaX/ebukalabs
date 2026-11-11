@@ -7,7 +7,7 @@ var EMAIL='hello@ebukalabs.com';
 var LINKS={substack:'',linkedin:'',github:''};
 
 /* 3 of 4. About photo. A path such as media/ebuka.jpg, or empty for the placeholder. */
-var PHOTO='ebuka.png';
+var PHOTO='ebuka.jpg';
 
 /* 4 of 4. Products. */
 /* EDIT HERE. status: 0 = Concept, 1 = In development, 2 = Available.
