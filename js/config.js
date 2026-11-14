@@ -4,7 +4,7 @@
 var EMAIL='hello@ebukalabs.com';
 
 /* 2 of 4. Social links. Paste full https:// addresses. Empty buttons stay greyed out. */
-var LINKS={substack:https://substack.com/@conyeka,linkedin:'',github:https://github.com/ebukaX};
+var LINKS={substack:'https://substack.com/@conyeka',linkedin:'',github:'https://github.com/ebukaX'};
 
 /* 3 of 4. About photo. A path such as media/ebuka.jpg, or empty for the placeholder. */
 var PHOTO='media/ebuka.jpg';
